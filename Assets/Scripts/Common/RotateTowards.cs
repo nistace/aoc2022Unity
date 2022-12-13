@@ -1,13 +1,71 @@
+using System;
 using UnityEngine;
 
 namespace AOC22.Common {
-	[ExecuteInEditMode]
+	[ExecuteAlways]
 	public class RotateTowards : MonoBehaviour {
-		[SerializeField] protected Transform _target;
+		protected enum Direction {
+			Forward = 0,
+			Up      = 1,
+			Right   = 2,
+			Back    = 3,
+			Down    = 4,
+			Left    = 5
+		}
+
+		protected enum NoTargetBehavior {
+			None               = 0,
+			SetDefaultAsLocal  = 1,
+			SetDefaultAsGlobal = 2,
+		}
+
+		[SerializeField] protected Transform        _target;
+		[SerializeField] protected Direction        _direction;
+		[SerializeField] protected NoTargetBehavior _noTargetBehavior;
+		[SerializeField] protected Quaternion       _defaultRotation;
+
+		public Transform target {
+			get => _target;
+			set => _target = value;
+		}
 
 		private void Update() {
 			if (_target) {
-				transform.forward = _target.position - transform.position;
+				switch (_direction) {
+					case Direction.Forward:
+						transform.forward = _target.position - transform.position;
+						break;
+					case Direction.Up:
+						transform.up = _target.position - transform.position;
+						break;
+					case Direction.Right:
+						transform.right = _target.position - transform.position;
+						break;
+					case Direction.Back:
+						transform.forward = transform.position - _target.position;
+						break;
+					case Direction.Down:
+						transform.up = transform.position - _target.position;
+						break;
+					case Direction.Left:
+						transform.right = transform.position - _target.position;
+						break;
+					default:
+						throw new ArgumentOutOfRangeException();
+				}
+			}
+			else {
+				switch (_noTargetBehavior) {
+					case NoTargetBehavior.SetDefaultAsLocal:
+						transform.localRotation = _defaultRotation;
+						break;
+					case NoTargetBehavior.SetDefaultAsGlobal:
+						transform.rotation = _defaultRotation;
+						break;
+					case NoTargetBehavior.None: break;
+					default:
+						throw new ArgumentOutOfRangeException();
+				}
 			}
 		}
 	}

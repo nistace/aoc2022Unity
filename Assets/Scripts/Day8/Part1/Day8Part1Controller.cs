@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace AOC22.Day8.Part1 {
 	public class Day8Part1Controller : AbstractDayController {
-		[SerializeField] protected Day8Camera      _camera;
+		[SerializeField] protected AnchorCamera    _camera;
 		[SerializeField] protected CrateMover      _crateMover;
 		[SerializeField] protected Day8Forest      _forest;
 		[SerializeField] protected Day8SpottingElf _spottingElf;
@@ -34,9 +34,9 @@ namespace AOC22.Day8.Part1 {
 		}
 
 		protected override IEnumerator DoPlaySimulation() {
-			_camera.SetAnchor(Day8Camera.Anchor.Intro);
+			_camera.SetAnchor("Intro");
 			yield return new WaitForSeconds(2);
-			_camera.SetAnchor(Day8Camera.Anchor.Forest);
+			_camera.SetAnchor("Forest");
 			for (_step = 0; _step < _crateMoverPositions.Count; _step++) {
 				yield return StartCoroutine(_crateMover.MoveTo(_crateMoverPositions[_step], _crateMoverPositions[_step] - _crateMover.transform.position));
 				var forwardVector = Vector3.back;
@@ -45,7 +45,7 @@ namespace AOC22.Day8.Part1 {
 				else if (Mathf.Approximately(_crateMoverPositions[_step].z, -_distanceToTheTree)) forwardVector = Vector3.forward;
 				yield return StartCoroutine(_crateMover.MoveTo(_crateMoverPositions[_step], forwardVector));
 				yield return StartCoroutine(_crateMover.MoveCrane(_minCraneHeight, false));
-				_camera.SetAnchor(Day8Camera.Anchor.PointOfView);
+				_camera.SetAnchor("PointOfView");
 				_spottingElf.SetSpotting(true);
 				var height = _minCraneHeight;
 				do {
@@ -53,10 +53,10 @@ namespace AOC22.Day8.Part1 {
 					height += _craneHeightStep;
 				} while (_spottingElf.IsSpottingSomething());
 				_spottingElf.SetSpotting(false);
-				_camera.SetAnchor(Day8Camera.Anchor.Forest);
+				_camera.SetAnchor("Forest");
 				yield return StartCoroutine(_crateMover.MoveCrane(_minCraneHeight, false));
 			}
-			_camera.SetAnchor(Day8Camera.Anchor.Outro);
+			_camera.SetAnchor("Outro");
 		}
 	}
 }

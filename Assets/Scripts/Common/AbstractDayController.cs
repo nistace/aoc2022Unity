@@ -14,6 +14,7 @@ namespace AOC22.Common {
 		}
 
 		private void Start() {
+			AocTime.SetCoefficient(1);
 			_ui.SetVisible(false);
 			_ui.HideFinalResult();
 			_inputUi.SetVisible(true);
@@ -22,7 +23,7 @@ namespace AOC22.Common {
 			_ui.onGoToMenuClicked.AddListener(GoToMenu);
 		}
 
-		private static void GoToMenu() => SceneManager.LoadScene("Menu");
+		private static void GoToMenu() => SceneManager.LoadSceneAsync("Menu");
 
 		private void PlaySimulation() {
 			if (TryParse(_inputUi.inputText)) {

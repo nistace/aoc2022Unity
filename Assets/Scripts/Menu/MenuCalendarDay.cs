@@ -1,4 +1,5 @@
 using TMPro;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
@@ -18,10 +19,16 @@ public class MenuCalendarDay : MonoBehaviour {
 		_part2Button.onClick.AddListener(() => onDayClicked.Invoke(_day, 2));
 	}
 
+#if UNITY_EDITOR
 	public void Build(int day, bool part1, bool part2) {
 		_day = day;
 		_dayText.text = $"Day {day}";
 		_part1Button.gameObject.SetActive(part1);
 		_part2Button.gameObject.SetActive(part2);
+		EditorUtility.SetDirty(this);
+		EditorUtility.SetDirty(_dayText);
+		EditorUtility.SetDirty(_part1Button);
+		EditorUtility.SetDirty(_part2Button);
 	}
+#endif
 }

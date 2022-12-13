@@ -58,7 +58,6 @@ namespace AOC22.Day5.Part1 {
 					yield return StartCoroutine(_crateMover.MoveTo(toManeuverPosition, maneuverToCrateForward));
 				}
 			}
-			yield return new WaitForSeconds(4);
 		}
 	}
 }
