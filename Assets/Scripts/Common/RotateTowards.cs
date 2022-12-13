@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using Utils.Extensions;
 
 namespace AOC22.Common {
 	[ExecuteAlways]
@@ -23,6 +24,7 @@ namespace AOC22.Common {
 		[SerializeField] protected Direction        _direction;
 		[SerializeField] protected NoTargetBehavior _noTargetBehavior;
 		[SerializeField] protected Quaternion       _defaultRotation;
+		[SerializeField] protected bool             _lookForwardY;
 
 		public Transform target {
 			get => _target;
@@ -30,25 +32,27 @@ namespace AOC22.Common {
 		}
 
 		private void Update() {
+			var targetPosition = _lookForwardY ? _target.position.With(y: transform.position.y) : _target.position;
+
 			if (_target) {
 				switch (_direction) {
 					case Direction.Forward:
-						transform.forward = _target.position - transform.position;
+						transform.forward = targetPosition - transform.position;
 						break;
 					case Direction.Up:
-						transform.up = _target.position - transform.position;
+						transform.up = targetPosition - transform.position;
 						break;
 					case Direction.Right:
-						transform.right = _target.position - transform.position;
+						transform.right = targetPosition - transform.position;
 						break;
 					case Direction.Back:
-						transform.forward = transform.position - _target.position;
+						transform.forward = transform.position - targetPosition;
 						break;
 					case Direction.Down:
-						transform.up = transform.position - _target.position;
+						transform.up = transform.position - targetPosition;
 						break;
 					case Direction.Left:
-						transform.right = transform.position - _target.position;
+						transform.right = transform.position - targetPosition;
 						break;
 					default:
 						throw new ArgumentOutOfRangeException();

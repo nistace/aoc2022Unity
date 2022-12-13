@@ -404,6 +404,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &19196694 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -601,6 +602,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &21295824 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -798,6 +800,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &36295618 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -995,6 +998,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &44322694 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -1583,6 +1587,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &68341293 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -1780,6 +1785,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &73559117 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -1977,6 +1983,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &85208333 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -2254,6 +2261,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &96075040 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -2451,6 +2459,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &107715979 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -2648,6 +2657,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &108456129 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -2845,6 +2855,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &112545574 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -3042,6 +3053,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &117065253 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -3239,6 +3251,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &125462179 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -3436,6 +3449,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &140914215 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -3633,6 +3647,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &142051042 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -3830,6 +3845,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &162750175 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -4027,6 +4043,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &167682769 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -4224,6 +4241,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &171810236 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -4519,6 +4537,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &177429157 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -4716,6 +4735,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &187391133 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -4913,6 +4933,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &204107215 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -5110,6 +5131,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &208466398 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -5307,6 +5329,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &211010825 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -5542,7 +5565,7 @@ Transform:
   - {fileID: 234105414}
   - {fileID: 248962963}
   m_Father: {fileID: 1797069610}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &234105411
 PrefabInstance:
@@ -5735,6 +5758,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &234105414 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -6015,6 +6039,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &245847032 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -6212,6 +6237,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &248962963 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -6409,6 +6435,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &276265521 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -6606,6 +6633,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &284681305 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -6803,6 +6831,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &285398794 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -7000,6 +7029,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &288495176 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -7197,6 +7227,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &292383374 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -7394,6 +7425,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &302633886 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -7591,6 +7623,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &305976178 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -7788,6 +7821,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &310893050 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -7985,6 +8019,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &316904188 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -8182,6 +8217,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &318799165 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -8379,6 +8415,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &328402661 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -8576,6 +8613,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &338579858 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -8876,6 +8914,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &360123923 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -9119,6 +9158,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &390995031 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -9414,6 +9454,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &398461958 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -9611,6 +9652,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &407391062 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -9953,6 +9995,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &418740919 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -10248,6 +10291,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &434889170 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -10445,6 +10489,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &442907780 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -10740,6 +10785,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &463355438 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -10937,6 +10983,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &474414663 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -11134,6 +11181,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &478600360 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -11331,6 +11379,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &494883404 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -11528,6 +11577,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &498898000 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -11725,6 +11775,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &500130191 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -11922,6 +11973,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &513107438 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -12119,6 +12171,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &523901751 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -12316,6 +12369,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &525412156 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -12649,6 +12703,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &531179471 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -12944,6 +12999,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &543186928 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -13141,6 +13197,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &560673053 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -13418,6 +13475,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &568456605 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -13615,110 +13673,13 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &568458464 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
     type: 3}
   m_PrefabInstance: {fileID: 568458461}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &573501383
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 573501387}
-  - component: {fileID: 573501386}
-  - component: {fileID: 573501385}
-  - component: {fileID: 573501384}
-  m_Layer: 0
-  m_Name: Plane
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!64 &573501384
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 573501383}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
---- !u!23 &573501385
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 573501383}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &573501386
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 573501383}
-  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &573501387
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 573501383}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 50, y: 50, z: 50}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1797069610}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &574048584
 GameObject:
   m_ObjectHideFlags: 0
@@ -14285,6 +14246,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &603538869 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -14639,6 +14601,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &613380628 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -14836,6 +14799,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &636841202 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -15033,6 +14997,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &637039009 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -15291,6 +15256,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &646251223 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -15488,6 +15454,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &665310495 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -15685,6 +15652,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &671918028 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -15882,6 +15850,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &674646813 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -16079,6 +16048,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &697067893 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -16276,6 +16246,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &703072559 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -16473,6 +16444,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &703924486 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -16670,6 +16642,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &716322970 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -16965,6 +16938,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &732058694 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -17069,6 +17043,81 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 746006123}
   m_Mesh: {fileID: -1682125421048621038, guid: 45c8782404118bd478840a550c950a24, type: 3}
+--- !u!1001 &764106203
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1797069610}
+    m_Modifications:
+    - target: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6852527614076170192, guid: 78beb03637def104e8364fdbb3843e75,
+        type: 3}
+      propertyPath: m_Name
+      value: Ground
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 78beb03637def104e8364fdbb3843e75, type: 3}
+--- !u!4 &764106204 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6852527614076170188, guid: 78beb03637def104e8364fdbb3843e75,
+    type: 3}
+  m_PrefabInstance: {fileID: 764106203}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &767955977
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17260,6 +17309,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &767955980 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -17457,6 +17507,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &787870782 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -17654,6 +17705,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &799858708 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -18024,6 +18076,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &831929464 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -18221,6 +18274,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &838231703 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -18418,6 +18472,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &845514770 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -18615,6 +18670,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &858392578 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -18895,6 +18951,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &878523293 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -19092,6 +19149,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &878645062 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -19289,6 +19347,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &898322785 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -19486,6 +19545,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &900386798 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -19683,6 +19743,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &909117604 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -19880,6 +19941,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &914517826 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -20077,6 +20139,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &915660872 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -20274,6 +20337,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &921691118 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -20471,6 +20535,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &929746263 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -20748,6 +20813,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &943082286 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -20945,6 +21011,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &947085857 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -21142,6 +21209,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &965902349 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -21339,6 +21407,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &972401226 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -21536,6 +21605,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &975897473 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -21733,6 +21803,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &987349601 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -22045,6 +22116,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &997410434 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -22242,6 +22314,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &998096359 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -22439,6 +22512,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1002826546 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -22640,6 +22714,9 @@ MonoBehaviour:
   - _name: 'Day 11: 1 & 2'
     _part1: 1
     _part2: 1
+  - _name: 'Day 12: 1'
+    _part1: 1
+    _part2: 0
 --- !u!1001 &1042529569
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23009,6 +23086,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1073495657 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -23206,6 +23284,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1090380323 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -23403,6 +23482,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1090408102 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -23600,6 +23680,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1093293126 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -23797,6 +23878,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1095068912 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -23994,6 +24076,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1100296245 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -24191,6 +24274,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1123723613 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -24388,6 +24472,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1134377613 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -24585,6 +24670,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1137453448 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -24782,6 +24868,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1151938396 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -25443,6 +25530,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1184607429 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -25640,6 +25728,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1188060590 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -25837,6 +25926,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1191467385 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -26034,6 +26124,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1198918429 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -26329,6 +26420,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1205015406 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -26601,6 +26693,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1222700623 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -26878,6 +26971,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1226521461 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -27158,6 +27252,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1277097825 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -27533,6 +27628,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1280920641 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -27730,6 +27826,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1292340066 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -27927,6 +28024,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1292949642 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -28204,6 +28302,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1324664542 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -28401,6 +28500,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1327405407 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -28598,6 +28698,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1327793632 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -29154,7 +29255,7 @@ Transform:
   - {fileID: 1329910483}
   - {fileID: 1278896230}
   m_Father: {fileID: 1797069610}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1339360915
 PrefabInstance:
@@ -29347,6 +29448,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1339360918 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -29544,6 +29646,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1360230448 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -29741,6 +29844,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1365628043 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -29938,6 +30042,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1376592917 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -30135,6 +30240,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1382004505 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -30332,6 +30438,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1382824617 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -30529,6 +30636,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1397963402 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -30953,6 +31061,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1444850137 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -31150,6 +31259,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1446515818 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -31520,6 +31630,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1459025675 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -31717,6 +31828,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1462958039 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -31994,6 +32106,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1470573972 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -32191,6 +32304,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1470778636 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -32388,6 +32502,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1498612949 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -32585,6 +32700,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1533997895 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -33241,6 +33357,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1559766490 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -33438,6 +33555,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1564417512 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -33635,6 +33753,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1567663130 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -33832,6 +33951,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1567789354 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -34029,6 +34149,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1578398714 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -34306,6 +34427,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1590029357 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -34503,6 +34625,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1590075166 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -34700,6 +34823,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1597301495 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -34897,6 +35021,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1606486256 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -35094,6 +35219,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1614642214 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -35291,6 +35417,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1622018079 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -35488,6 +35615,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1623071546 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -35783,6 +35911,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1633372204 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -35980,6 +36109,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1634442038 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -36177,6 +36307,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1641202613 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -36374,6 +36505,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1645418035 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -36571,6 +36703,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1650424766 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -36768,6 +36901,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1660672924 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -36965,6 +37099,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1692380427 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -37340,6 +37475,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1731274847 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -37537,6 +37673,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1731470366 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -37734,6 +37871,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1738149737 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -37931,6 +38069,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1741959887 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -38128,6 +38267,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1748952161 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -38166,7 +38306,7 @@ Transform:
   - {fileID: 1859485177}
   - {fileID: 2137876502}
   m_Father: {fileID: 1797069610}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: -184.118, z: 0}
 --- !u!1001 &1761707158
 PrefabInstance:
@@ -38359,6 +38499,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1761707161 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -38556,6 +38697,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1772685710 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -38753,6 +38895,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1778589506 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -39048,6 +39191,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1790016833 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -39245,6 +39389,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1795052089 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -39279,10 +39424,10 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 573501387}
   - {fileID: 230402414}
   - {fileID: 1338648564}
   - {fileID: 1760440854}
+  - {fileID: 764106204}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -39575,6 +39720,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1810775130 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -39772,6 +39918,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1810831278 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -39969,6 +40116,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1813956695 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -40166,6 +40314,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1818447826 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -40363,6 +40512,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1821460822 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -40560,6 +40710,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1829575247 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -40757,6 +40908,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1831220954 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -41173,6 +41325,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1849012195 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -41370,6 +41523,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1851827655 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -41567,6 +41721,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1851875562 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -41695,7 +41850,7 @@ PrefabInstance:
     - target: {fileID: 5260945851139492228, guid: e1cf4d8154eaea94fa6a5dae501cf12c,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5260945851210913606, guid: e1cf4d8154eaea94fa6a5dae501cf12c,
         type: 3}
@@ -42186,6 +42341,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1885475267 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -42383,6 +42539,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1892845880 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -42580,6 +42737,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1911035164 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -42777,6 +42935,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1929246495 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -42974,6 +43133,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1938968430 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -43171,6 +43331,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1940423041 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -43368,6 +43529,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1941889454 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -43565,6 +43727,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1944806410 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -43762,6 +43925,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1951986948 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -43959,6 +44123,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &1956178305 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -44254,6 +44419,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2007373862 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -44451,6 +44617,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2031426595 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -44648,6 +44815,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2032131779 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -44943,6 +45111,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2057507199 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -45290,6 +45459,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2072494397 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -45487,6 +45657,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2073450633 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -45782,6 +45953,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2091441245 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -45979,6 +46151,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2092746213 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -46176,6 +46349,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2096993708 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -46373,6 +46547,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2115988450 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -46570,6 +46745,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2119501782 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -46767,6 +46943,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2127726011 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -46964,6 +47141,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2129044637 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -47161,6 +47339,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2130510526 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
@@ -47358,6 +47537,7 @@ MonoBehaviour:
   _direction: 0
   _noTargetBehavior: 0
   _defaultRotation: {x: 0, y: 0, z: 0, w: 0}
+  _lookForwardY: 0
 --- !u!4 &2136494395 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3509456694502524658, guid: dbf8c6eb38dc6fa43b92805f8e4c9aa6,
